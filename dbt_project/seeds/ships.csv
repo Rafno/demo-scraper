@@ -1,0 +1,13 @@
+ship_code,ship_name,ship_url,pax_count,crew_count,type
+E4, Silver Cloud, /ships/silver-cloud-expedition.html, 254, 212, Expedition
+MO, Silver Moon, /ships/silver-moon.html, 596, 411, Classic
+DA, Silver Dawn, /ships/silver-dawn.html, 596, 411, Classic
+EV, Silver Endeavour, /ships/silver-endeavour.html, 220, 207, Expedition
+SM, Silver Muse, /ships/silver-muse.html, 596, 411, Classic
+SN, Silver Nova, /ships/silver-muse.html, 728, 544, Classic
+OR, Silver Origin, /ships/silver-origin.html, 100, 90, Expedition
+RA, Silver Ray, /ships/silver-ray.html, 728, 544, Classic
+SS, Silver Shadow, /ships/silver-shadow.html, 392, 302, Classic
+SL, Silver Spirit, /ships/silver-spirit.html, 608, 411, Classic
+WH, Silver Whisper, /ships/silver-whisper.html, 392, 302, Classic
+WI, Silver Wind, /ships/silver-wind.html, 274, 239, Expedition

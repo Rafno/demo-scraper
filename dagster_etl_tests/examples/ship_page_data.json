@@ -1,0 +1,947 @@
+{
+    "componentChunkName": "component---src-templates-page-tsx",
+    "path": "/ships.html",
+    "result": {
+        "data": {
+            "page": {
+                "metadata": {
+                    "excludeFromSitemap": null,
+                    "openGraph": {
+                        "title": {
+                            "localized": "Intimate and Splendid Luxury Cruise Ships "
+                        },
+                        "description": {
+                            "localized": "We will take you where larger ships cannot reach, the intimate atmosphere is what makes our voyages special."
+                        },
+                        "image": {
+                            "hotspot": null,
+                            "crop": null,
+                            "asset": {
+                                "_id": "image-4442ccf7ceecaab945c59f13f7f130797f1ff36e-468x270-jpg"
+                            }
+                        }
+                    }
+                },
+                "title": {
+                    "localized": "Ships"
+                },
+                "sections": [
+                    {
+                        "__typename": "SanityOpeningHero",
+                        "_key": "9b7f95357dd3f5f41c0f9dfb1f54587cc1240f727f1bc22c25da7fe7fefa3b3a",
+                        "variant": null,
+                        "title": {
+                            "localized": "Intimate Luxury Cruise Ships"
+                        },
+                        "heroContent": null,
+                        "background": {
+                            "__typename": "SanityImageWithAlt",
+                            "hotspot": null,
+                            "crop": null,
+                            "asset": {
+                                "_id": "image-766e5af3a0063c663ab0c5cb142158cb9576ceb8-3000x1210-jpg",
+                                "url": "https://cdn.sanity.io/images/rd0y3pad/production/766e5af3a0063c663ab0c5cb142158cb9576ceb8-3000x1210.jpg"
+                            },
+                            "alt": null
+                        },
+                        "ctaButtons": [
+                            {
+                                "__typename": "SanityBrochureCTA",
+                                "_type": "brochureCTA",
+                                "_key": "58f7b0a4c443",
+                                "label": null,
+                                "variant": "secondary",
+                                "defaultFullPath": "/brochures.html",
+                                "brochure": null,
+                                "asModal": null
+                            },
+                            {
+                                "__typename": "SanityRaqCTA",
+                                "_type": "raqCTA",
+                                "_key": "a60891cc9eef",
+                                "label": null,
+                                "variant": "primary",
+                                "defaultFullPath": "/request-quote.html",
+                                "cruise": null
+                            }
+                        ],
+                        "calligraphicTitle": null,
+                        "calligraphicTitlePosition": null
+                    },
+                    {
+                        "__typename": "SanityDescriptionText",
+                        "_key": "cc27a3587dcd68a27e74431379ee9a915c32eb3c6afadf409dc8938825bd765a",
+                        "variant": null,
+                        "sectionLayoutConfig": null,
+                        "content": {
+                            "leadIn": {
+                                "localized": "Our ships range in size from 51 to 364 suites to ensure each of our guests finds the perfect balance between choice and intimacy."
+                            },
+                            "content": {
+                                "localized": [
+                                    {
+                                        "_key": "2ae67ddd5482",
+                                        "_type": "block",
+                                        "children": [
+                                            {
+                                                "_key": "c57343e90f05",
+                                                "_type": "span",
+                                                "marks": [],
+                                                "text": "There is something uniquely satisfying about a smaller ship. The intimacy. The friendly camaraderie. The excitement of small, off-the-beaten-track "
+                                            },
+                                            {
+                                                "_key": "761b1a92e05c",
+                                                "_type": "span",
+                                                "marks": [
+                                                    "854167f187ca"
+                                                ],
+                                                "text": "destinations"
+                                            },
+                                            {
+                                                "_key": "fa042d9a1f32",
+                                                "_type": "span",
+                                                "marks": [],
+                                                "text": ". Our intimate, "
+                                            },
+                                            {
+                                                "_key": "09d7a36ebcbc",
+                                                "_type": "span",
+                                                "marks": [
+                                                    "125096fbb7c2"
+                                                ],
+                                                "text": "ultra-luxury ships"
+                                            },
+                                            {
+                                                "_key": "26aed8eb9bf2",
+                                                "_type": "span",
+                                                "marks": [],
+                                                "text": " can sail up narrow waterways into the heart of a city or tie up right at the pier while others must anchor offshore. And for those who yearn to explore the new and unknown, Silversea’s "
+                                            },
+                                            {
+                                                "_key": "f2086e2c970f",
+                                                "_type": "span",
+                                                "marks": [
+                                                    "807e920ccdcc"
+                                                ],
+                                                "text": "expedition ships"
+                                            },
+                                            {
+                                                "_key": "9539052e1563",
+                                                "_type": "span",
+                                                "marks": [],
+                                                "text": " can transport you to the furthermost boundaries of the planet. Travel is the elixir of life at Silversea, and every cruise is a voyage of discovery. Come and explore the possibilities on a Silversea cruise."
+                                            }
+                                        ],
+                                        "markDefs": [
+                                            {
+                                                "_key": "854167f187ca",
+                                                "_type": "link",
+                                                "href": "https://www.silversea.com/destinations.html"
+                                            },
+                                            {
+                                                "_key": "125096fbb7c2",
+                                                "_type": "link",
+                                                "href": "https://www.silversea.com/ships.html"
+                                            },
+                                            {
+                                                "_key": "807e920ccdcc",
+                                                "_type": "link",
+                                                "href": "https://www.silversea.com/luxury-expeditions-cruises.html"
+                                            }
+                                        ],
+                                        "style": "normal"
+                                    }
+                                ]
+                            }
+                        },
+                        "highlights": [],
+                        "slideshow": [],
+                        "ctaButtons": []
+                    },
+                    {
+                        "__typename": "SanityCollectionMosaic",
+                        "_key": "365f8441318f6b961dd7942dc107c06c6ec8c3dc06d8416d5df000a5332a424a",
+                        "sectionLayoutConfig": null,
+                        "heading": {
+                            "title": {
+                                "localized": "All Ships"
+                            },
+                            "tagline": null,
+                            "content": null,
+                            "ctaButtons": []
+                        },
+                        "collection": "ships",
+                        "collectionData": [
+                            {
+                                "_id": "ship-silver-cloud-expedition",
+                                "id": "-e3eb2e01-10bb-547a-8f53-e869f05f9473",
+                                "shipType": "Expedition",
+                                "fullPath": "/ships/silver-cloud-expedition.html",
+                                "metadata": {
+                                    "tracking": {
+                                        "name": "silver_cloud"
+                                    }
+                                },
+                                "card": {
+                                    "trackingName": {
+                                        "en": "Silver Cloud"
+                                    },
+                                    "title": {
+                                        "localized": "Silver Cloud"
+                                    },
+                                    "description": {
+                                        "localized": "With 20-brand new Zodiacs, four superlative restaurants in Antarctica and a pole-to-pole expedition itinerary, Silver Cloud really does break the ice between expedition and luxury. "
+                                    },
+                                    "image": {
+                                        "__typename": "SanityImageWithAlt",
+                                        "hotspot": null,
+                                        "crop": null,
+                                        "asset": {
+                                            "_id": "image-b587766190d5df7c8acdb45f0efb134b09b8db7e-5464x3640-jpg",
+                                            "metadata": {
+                                                "preview": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHAgj/xAAiEAACAQQBBAMAAAAAAAAAAAABAwIABAURMQYSQZEhQnH/xAAWAQEBAQAAAAAAAAAAAAAAAAACBAX/xAAdEQACAgEFAAAAAAAAAAAAAAAAAgETERIxQVFS/9oADAMBAAIRAxEAPwDdhkcE+4EXWsAOdiXxT1scCV7hbIhI8CfmuZ0ZS6jLYZIH9p+zqbJXiULe4yCRqJ81XraeTNsSN1LIyGM7zpdp7oqLDM3Z+590U8t2G1PJ/9k="
+                                            }
+                                        },
+                                        "alt": null
+                                    }
+                                }
+                            },
+                            {
+                                "_id": "ship-silver-dawn",
+                                "id": "-af729069-9fea-57b8-b275-51c72f6fc077",
+                                "shipType": "Classic",
+                                "fullPath": "/ships/silver-dawn.html",
+                                "metadata": {
+                                    "tracking": {
+                                        "name": "silver_dawn"
+                                    }
+                                },
+                                "card": {
+                                    "trackingName": {
+                                        "en": "Silver Dawn"
+                                    },
+                                    "title": {
+                                        "localized": "Silver Dawn"
+                                    },
+                                    "description": {
+                                        "localized": "A new Dawn has arrived! Our tenth ultra-luxury ship joined our fleet in April 2022, sailing a worldwide itinerary that promises authentic, immersive experiences."
+                                    },
+                                    "image": {
+                                        "__typename": "SanityImageWithAlt",
+                                        "hotspot": null,
+                                        "crop": null,
+                                        "asset": {
+                                            "_id": "image-93e42e9351f25398f17b05bd2fa9ed7ad8bbb279-800x600-jpg",
+                                            "metadata": {
+                                                "preview": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAcBBAj/xAAjEAACAgEDAwUAAAAAAAAAAAABAgMEAAUHEQZBYRITITGB/8QAFgEBAQEAAAAAAAAAAAAAAAAABAID/8QAGREBAAMBAQAAAAAAAAAAAAAAAQACEVFh/9oADAMBAAIRAxEAPwDQyewoVpJVUeT95E9qoXCrPHyfOKCtuBS1FYIp4nDHuAcqax1dSqWFVBKYx2IxZWyw61I17MERlJ9fP7hiK1DdQrYKxhwgAA+MM032Rhyf/9k="
+                                            }
+                                        },
+                                        "alt": null
+                                    }
+                                }
+                            },
+                            {
+                                "_id": "5653ea42-6a9c-4f6a-90b3-020b2c5add8c",
+                                "id": "-1fafc2c6-f8b4-5d11-9ca2-8138031d9a3f",
+                                "shipType": "Expedition",
+                                "fullPath": "/ships/silver-endeavour.html",
+                                "metadata": {
+                                    "tracking": {
+                                        "name": "silver_cloud"
+                                    }
+                                },
+                                "card": {
+                                    "trackingName": {
+                                        "en": "Silver Endeavour"
+                                    },
+                                    "title": {
+                                        "localized": "Silver Endeavour"
+                                    },
+                                    "description": {
+                                        "localized": "We’re proud to announce that our newest addition has joined the fleet. Silver Endeavour revolutionises our expedition voyages, and allows us to travel deeper to some of the planet’s farthest flung coasts. "
+                                    },
+                                    "image": {
+                                        "__typename": "SanityImageWithAlt",
+                                        "hotspot": null,
+                                        "crop": null,
+                                        "asset": {
+                                            "_id": "image-90dadaa6f6d52c2653a0a973841ac7a32de093b1-3800x1500-jpg",
+                                            "metadata": {
+                                                "preview": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMH/8QAHxAAAgICAQUAAAAAAAAAAAAAAgMAAQQGEQUSEzJB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAT/xAAZEQEBAAMBAAAAAAAAAAAAAAABAAIRMRL/2gAMAwEAAhEDEQA/ANNydkxkYpMxbo3fBsuKlOl7kkE15KEGl7cXESz0vWlcQ5XbtFmXK2j2xERtmr//2Q=="
+                                            }
+                                        },
+                                        "alt": null
+                                    }
+                                }
+                            },
+                            {
+                                "_id": "ship-silver-moon",
+                                "id": "-dddf0ec4-1144-52b6-b981-737c8aa3b03c",
+                                "shipType": "Classic",
+                                "fullPath": "/ships/silver-moon.html",
+                                "metadata": {
+                                    "tracking": {
+                                        "name": "silver_moon"
+                                    }
+                                },
+                                "card": {
+                                    "trackingName": {
+                                        "en": "Silver Moon"
+                                    },
+                                    "title": {
+                                        "localized": "Silver Moon"
+                                    },
+                                    "description": {
+                                        "localized": "Built by cruise lovers, for cruise lovers, Silver Moon will be the epitome of 21st century luxury travel. "
+                                    },
+                                    "image": {
+                                        "__typename": "SanityImageWithAlt",
+                                        "hotspot": {
+                                            "height": 0.7600059075468905,
+                                            "width": 0.8442622950819689,
+                                            "x": 0.5184426229508194,
+                                            "y": 0.5307684733914237
+                                        },
+                                        "crop": {
+                                            "bottom": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "top": 0
+                                        },
+                                        "asset": {
+                                            "_id": "image-06e1e48fd896318296048cdaf786e7a318efc15c-1200x800-jpg",
+                                            "metadata": {
+                                                "preview": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAcFBgj/xAAgEAABBAICAwEAAAAAAAAAAAABAAIDBAURBhITITGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwL/xAAYEQADAQEAAAAAAAAAAAAAAAAAARECIf/aAAwDAQACEQMRAD8AdVfMCGJ0rpGNY0bJKlMVyOrfJjrWYXyAb1tZ7xfKrz29Xhrmn0QT9ViwuRFew61BXjZMRrsE+lEGnWOWbISCQjvEhJq5ya95zoj9Qj6XT//Z"
+                                            }
+                                        },
+                                        "alt": null
+                                    }
+                                }
+                            },
+                            {
+                                "_id": "ship-silver-muse",
+                                "id": "-d7a8328f-6c0c-5813-8ccb-b57092954e7e",
+                                "shipType": "Classic",
+                                "fullPath": "/ships/silver-muse.html",
+                                "metadata": {
+                                    "tracking": {
+                                        "name": "silver_muse"
+                                    }
+                                },
+                                "card": {
+                                    "trackingName": {
+                                        "en": "Silver Muse"
+                                    },
+                                    "title": {
+                                        "localized": "Silver Muse"
+                                    },
+                                    "description": {
+                                        "localized": "Silver Muse is without question an inspirational work of art. The best place between sea and sky, 8 dining venues, spacious outdoor areas and up-to-the-minute technology makes her simply divine. "
+                                    },
+                                    "image": {
+                                        "__typename": "SanityImageWithAlt",
+                                        "hotspot": {
+                                            "height": 0.6981108092219213,
+                                            "width": 0.5379188712522046,
+                                            "x": 0.4894179894179894,
+                                            "y": 0.49735184920370107
+                                        },
+                                        "crop": {
+                                            "bottom": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "top": 0
+                                        },
+                                        "asset": {
+                                            "_id": "image-7200190aa09399524abc887c1cb83b54e1e655b6-5472x3648-jpg",
+                                            "metadata": {
+                                                "preview": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwAGCP/EACIQAAEDBQABBQAAAAAAAAAAAAECAwQABQYRIRIUI0FTYf/EABYBAQEBAAAAAAAAAAAAAAAAAAQAAv/EABwRAAIBBQEAAAAAAAAAAAAAAAACEQESISJRMf/aAAwDAQACEQMRAD8AxuD57Nbltolx23mvnQ0acrZluOvwi4px1taR1soO9/lci49OdafQpJ7Srab/ACvSqACRymIzRmoZrZ8FR3N7EXFezK4frNVEy73K8j0VVqW6WvD/2Q=="
+                                            }
+                                        },
+                                        "alt": null
+                                    }
+                                }
+                            },
+                            {
+                                "_id": "401eb801-8061-426a-baf5-e72d484a842b",
+                                "id": "-e3d38624-2af1-5ea0-a261-e8860265eb00",
+                                "shipType": "Classic",
+                                "fullPath": "/ships/silver-nova.html",
+                                "metadata": {
+                                    "tracking": null
+                                },
+                                "card": {
+                                    "trackingName": {
+                                        "en": "Silver Nova"
+                                    },
+                                    "title": {
+                                        "localized": "Silver Nova"
+                                    },
+                                    "description": {
+                                        "localized": "Introducing Silver Nova – the eleventh ship to join our fleet. Our newest vessel will join us in summer 2023, and will be a home away from home for up to 728 guests."
+                                    },
+                                    "image": {
+                                        "__typename": "SanityImageWithAlt",
+                                        "hotspot": {
+                                            "height": 0.7987971844180993,
+                                            "width": 0.9576719576719577,
+                                            "x": 0.5211640211640212,
+                                            "y": 0.4622744720783936
+                                        },
+                                        "crop": {
+                                            "bottom": 0.13518314171908952,
+                                            "left": 0.04232804232804233,
+                                            "right": 0,
+                                            "top": 0
+                                        },
+                                        "asset": {
+                                            "_id": "image-c067f957077def0398720b9f4de071ef0647a041-4904x2755-jpg",
+                                            "metadata": {
+                                                "preview": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAgBAgMH/8QAJRAAAgIBAwEJAAAAAAAAAAAAAQIAAwQFBhETBxIhIyUxcZGS/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwEC/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQATFP/aAAwDAQACEQMRAD8AireLu7eoFVUckswEpidoLWZXRXNs8D7hgYv2dfax4NjEfM20y6xWHdciNmLDqhM7Ru25qwRqFv6EJwzGyr+kPNb7hLiWOhv/2Q=="
+                                            }
+                                        },
+                                        "alt": null
+                                    }
+                                }
+                            },
+                            {
+                                "_id": "ship-silver-origin",
+                                "id": "-8e1f8285-34d2-5b7c-a4db-8778c27d15eb",
+                                "shipType": "Expedition",
+                                "fullPath": "/ships/silver-origin.html",
+                                "metadata": {
+                                    "tracking": {
+                                        "name": "silver_origin"
+                                    }
+                                },
+                                "card": {
+                                    "trackingName": {
+                                        "en": "Silver Origin"
+                                    },
+                                    "title": {
+                                        "localized": "Silver Origin"
+                                    },
+                                    "description": {
+                                        "localized": "The most elegant ship ever to sail the Galapagos. The first destination specific ship built by Silversea, Silver Origin is the height of experiential travel in the Galapagos. "
+                                    },
+                                    "image": {
+                                        "__typename": "SanityImageWithAlt",
+                                        "hotspot": null,
+                                        "crop": null,
+                                        "asset": {
+                                            "_id": "image-77b4ad75b0ddb354df0272ee2eb5b66c5529d56a-4766x3177-jpg",
+                                            "metadata": {
+                                                "preview": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAcCAwX/xAAiEAACAQQCAQUAAAAAAAAAAAABAgQAAwURBiExExQXIlH/xAAVAQEBAAAAAAAAAAAAAAAAAAABBP/EABwRAAICAgMAAAAAAAAAAAAAAAEDABETIQRRcf/aAAwDAQACEQMRAD8A3kxCqNuQo/SaugQY0pmEe6lwqdHRpHZfmWYlqlu/I2u9/XqpY7leWguDFkemSD4FWFvIvQFeyUKTWybj8ODG/FFJz5F5BaVU9yG0B2V7opyOhjX3P//Z"
+                                            }
+                                        },
+                                        "alt": null
+                                    }
+                                }
+                            },
+                            {
+                                "_id": "3db5dcaa-58ca-4c6b-8496-01a8a834c8e7",
+                                "id": "-d23539cc-5143-56f3-9d76-193e3a9f901e",
+                                "shipType": "Classic",
+                                "fullPath": "/ships/silver-ray.html",
+                                "metadata": {
+                                    "tracking": null
+                                },
+                                "card": {
+                                    "trackingName": {
+                                        "en": "Silver Ray"
+                                    },
+                                    "title": {
+                                        "localized": "Silver Ray"
+                                    },
+                                    "description": {
+                                        "localized": "Portraying a dynamic and immediate connection with nature, where the touch of light inspires purity and movement, Silversea’s second Nova Class ship will be named Silver Ray. Set for a Summer 2024 debut."
+                                    },
+                                    "image": {
+                                        "__typename": "SanityImageWithAlt",
+                                        "hotspot": null,
+                                        "crop": null,
+                                        "asset": {
+                                            "_id": "image-741935645545def0ecb8c14699b4d620613b77aa-1280x814-jpg",
+                                            "metadata": {
+                                                "preview": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACMQAAEEAQIHAQAAAAAAAAAAAAIAAQMEBQYREhMhIjFBYXL/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAwX/xAAbEQACAgMBAAAAAAAAAAAAAAABAgAEA0FCUv/aAAwDAQACEQMRAD8AoVaiJs7zYkRFvfMbwsjLR4e4cg0KwytH0k7tnF1Pi15lRZtibr9S5d1hcrnYOCKMDm7jdvbqSVGHU0Xuquo6WsRCU5ONNtv2yFKpdY5Mjd+Pz9QljAw7MObyeBP/2Q=="
+                                            }
+                                        },
+                                        "alt": null
+                                    }
+                                }
+                            },
+                            {
+                                "_id": "ship-silver-shadow",
+                                "id": "-a4504a1f-6d8e-503e-ab3a-85b47d07abe5",
+                                "shipType": "Classic",
+                                "fullPath": "/ships/silver-shadow.html",
+                                "metadata": {
+                                    "tracking": {
+                                        "name": "silver_shadow"
+                                    }
+                                },
+                                "card": {
+                                    "trackingName": {
+                                        "en": "Silver Shadow"
+                                    },
+                                    "title": {
+                                        "localized": "Silver Shadow"
+                                    },
+                                    "description": {
+                                        "localized": "Award-winning Silver Shadow has all the hallmarks of extreme luxury at sea. With one of the highest space-to-guest ratios at sea, Silver Shadow is a firm favourite in the Silversea fleet. "
+                                    },
+                                    "image": {
+                                        "__typename": "SanityImageWithAlt",
+                                        "hotspot": {
+                                            "height": 0.5630876778417758,
+                                            "width": 0.75,
+                                            "x": 0.625,
+                                            "y": 0.718456161079112
+                                        },
+                                        "crop": {
+                                            "bottom": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "top": 0
+                                        },
+                                        "asset": {
+                                            "_id": "image-6d75f2cf75497b660003eb34b5d1dca083ed752a-1200x800-jpg",
+                                            "metadata": {
+                                                "preview": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAYCAwf/xAAjEAACAgAFBAMAAAAAAAAAAAABAgADBAYRIUEFIjE0YqHR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAGREAAgMBAAAAAAAAAAAAAAAAAAMBERIh/9oADAMBAAIRAxEAPwDTxShbnSV21KT2rFMZvuI9VN/mfyQ6xmSw4J2roFbsANQ52+pU6J6NqkZrsOjPsgHEIljN2JrStWoR2CjVi3mE3lobWf/Z"
+                                            }
+                                        },
+                                        "alt": null
+                                    }
+                                }
+                            },
+                            {
+                                "_id": "ship-silver-spirit",
+                                "id": "-164cbc5d-82a6-55c2-98d1-cc46cd4d85a5",
+                                "shipType": "Classic",
+                                "fullPath": "/ships/silver-spirit.html",
+                                "metadata": {
+                                    "tracking": {
+                                        "name": "silver_spirit"
+                                    }
+                                },
+                                "card": {
+                                    "trackingName": {
+                                        "en": "Silver Spirit"
+                                    },
+                                    "title": {
+                                        "localized": "Silver Spirit"
+                                    },
+                                    "description": {
+                                        "localized": "Amplify your experience! The all-new Silver Spirit has never looked better, nor felt cosier. Fully refurbished for a superlative onboard adventure, she retains our world famous standards of service and home away from home feel."
+                                    },
+                                    "image": {
+                                        "__typename": "SanityImageWithAlt",
+                                        "hotspot": null,
+                                        "crop": null,
+                                        "asset": {
+                                            "_id": "image-e2ce5325b7e5684e210ab67261f262c291f146b3-1000x800-jpg",
+                                            "metadata": {
+                                                "preview": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgj/xAAjEAACAQQBAwUAAAAAAAAAAAABAgMABAURIQYSMRMUQUKB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAwDAQACEQMRAD8A6SvspaWcRkuZwqg6pZB1Tjpbj0g7kk6B1xWVnsvdBmYs3d9WbxSmbC5NpAsM0UEI+F8mrJK53b5VuKKlbQ9VxaS1zMaQqNKGj2R+0UKb/9k="
+                                            }
+                                        },
+                                        "alt": null
+                                    }
+                                }
+                            },
+                            {
+                                "_id": "ship-silver-whisper",
+                                "id": "-3e29968b-db9a-52c2-9053-e8ee88015e42",
+                                "shipType": "Classic",
+                                "fullPath": "/ships/silver-whisper.html",
+                                "metadata": {
+                                    "tracking": {
+                                        "name": "silver_whisper"
+                                    }
+                                },
+                                "card": {
+                                    "trackingName": {
+                                        "en": "Silver Whisper"
+                                    },
+                                    "title": {
+                                        "localized": "Silver Whisper"
+                                    },
+                                    "description": {
+                                        "localized": "Our world-cruisers preferred ship, Silver Whisper sports a relaxing, sophisticated and genuinely elegant atmosphere. A multi-million dollar refit makes her one of the most technically up to the minute ships at sea. "
+                                    },
+                                    "image": {
+                                        "__typename": "SanityImageWithAlt",
+                                        "hotspot": {
+                                            "height": 0.6369320139811933,
+                                            "width": 0.7500000000000031,
+                                            "x": 0.5348360655737701,
+                                            "y": 0.4384630532171514
+                                        },
+                                        "crop": {
+                                            "bottom": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "top": 0
+                                        },
+                                        "asset": {
+                                            "_id": "image-199e4aa9e26a8ba5dc08106d8478b4627e60c5e3-1200x800-jpg",
+                                            "metadata": {
+                                                "preview": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwADBf/EACUQAAEDBAECBwAAAAAAAAAAAAIAAQMEBRETEiIxBhUWIaHB4f/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAaEQACAgMAAAAAAAAAAAAAAAAAARMUISLw/9oADAMBAAIRAxEAPwBKpb+bUxeWxQg+Hd9pv9LlweLbnViQRyW3dG/UBCWcI6orvUAzYf5Ws9zlFikERYy7k3d0K2w82BM9SRYbfSR7MdXA/ZSITu8/L9UtFVcyE7P/2Q=="
+                                            }
+                                        },
+                                        "alt": null
+                                    }
+                                }
+                            },
+                            {
+                                "_id": "ship-silver-wind",
+                                "id": "-cee9d78e-80f5-506b-989c-cb18ea0d8090",
+                                "shipType": "Expedition",
+                                "fullPath": "/ships/silver-wind.html",
+                                "metadata": {
+                                    "tracking": {
+                                        "name": "silver_wind"
+                                    }
+                                },
+                                "card": {
+                                    "trackingName": {
+                                        "en": "Silver Wind"
+                                    },
+                                    "title": {
+                                        "localized": "Silver Wind"
+                                    },
+                                    "description": {
+                                        "localized": "Silver Wind is a perfect illustration of how complete a small-sized ship can be. With just 274-guests, beautiful suites and spacious public areas, Silver Wind is one of the cosiest and most intimate ships afloat today.  "
+                                    },
+                                    "image": {
+                                        "__typename": "SanityImageWithAlt",
+                                        "hotspot": {
+                                            "height": 0.6557403964811377,
+                                            "width": 0.4850088183421517,
+                                            "x": 0.28835978835978837,
+                                            "y": 0.5820926746852675
+                                        },
+                                        "crop": {
+                                            "bottom": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "top": 0
+                                        },
+                                        "asset": {
+                                            "_id": "image-0ac815d7b6f0d916a59b12a91159166910ab7038-4399x2933-jpg",
+                                            "metadata": {
+                                                "preview": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAgf/xAAlEAACAQMDAgcAAAAAAAAAAAABAgMABBEFEiEGBxMUIiQxYXH/xAAWAQEBAQAAAAAAAAAAAAAAAAAFAgP/xAAcEQABAwUAAAAAAAAAAAAAAAAAAQIRAwQTFFH/2gAMAwEAAhEDEQA/AOta51kscPtIRFNnPq5wKntR7jah5bwhujUEbpFQ/H1Uzc3ksjh2Y5HHBrQnZ4CrAEUg+lCBbbtJG2o907uO42WZ3whQAzjBJopBJFCzZaGMn8oqcamm23h//9k="
+                                            }
+                                        },
+                                        "alt": null
+                                    }
+                                }
+                            }
+                        ],
+                        "showExpeditionsOnly": null,
+                        "mosaicVariant": "column3"
+                    },
+                    {
+                        "__typename": "SanityPageSlider",
+                        "_key": "e1eab6fb09cf2cc01f6629edb7609745f31b5f7922299f8bac2ac56c03f506a8",
+                        "sectionLayoutConfig": null,
+                        "heading": {
+                            "title": {
+                                "localized": "Onboard Luxury"
+                            },
+                            "tagline": null,
+                            "content": {
+                                "localized": [
+                                    {
+                                        "_key": "f751b478a051",
+                                        "_type": "block",
+                                        "children": [
+                                            {
+                                                "_key": "f751b478a0510",
+                                                "_type": "span",
+                                                "marks": [],
+                                                "text": "With a staff-to-guest ratio of nearly one to one, your every wish is fulfilled sometimes before you even ask"
+                                            }
+                                        ],
+                                        "markDefs": [],
+                                        "style": "normal"
+                                    }
+                                ]
+                            },
+                            "ctaButtons": [
+                                {
+                                    "__typename": "SanityPageCTA",
+                                    "_type": "pageCTA",
+                                    "_key": "7f97bae7b5d77ba46ee341fa0df3e5449f5a7cf888b7744e9e59d0d4e1d0dbc8",
+                                    "label": {
+                                        "localized": "view more"
+                                    },
+                                    "variant": "primary",
+                                    "page": {
+                                        "fullPath": "/life-onboard.html",
+                                        "id": "-dd7139bd-4476-5087-8e67-7bc81fc47e69"
+                                    }
+                                }
+                            ]
+                        },
+                        "items": [
+                            {
+                                "id": "-6e2abdf6-e63a-5bc0-9e66-91133d107e1a",
+                                "fullPath": "/life-onboard/luxury-cruises-personalised-service.html",
+                                "i18nFullPaths": {
+                                    "en": "/life-onboard/luxury-cruises-personalised-service.html",
+                                    "es": "/es/abordo/personalised-service.html",
+                                    "pt-br": "/pt-br/a-bordo/servico-personalizado.html",
+                                    "de": "/de/an-bord/persoenlicher-service.html",
+                                    "fr": "/fr/a-bord/service-personnalise.html"
+                                },
+                                "metadata": {
+                                    "tracking": {
+                                        "name": "personalised_service"
+                                    }
+                                },
+                                "title": {
+                                    "localized": "Personalised Service"
+                                },
+                                "card": {
+                                    "trackingName": {
+                                        "en": "Personalised Service"
+                                    },
+                                    "title": {
+                                        "localized": "Personalised Service"
+                                    },
+                                    "description": {
+                                        "localized": "With a staff-to-guest ratio of nearly 1:1, Silversea’s service is highly personalised, friendly … and all-inclusive."
+                                    },
+                                    "image": {
+                                        "__typename": "SanityImageWithAlt",
+                                        "hotspot": null,
+                                        "crop": null,
+                                        "asset": {
+                                            "_id": "image-b413e3298d0634bb481bc1f1e3e562a0b4a77e61-1200x800-jpg",
+                                            "metadata": {
+                                                "preview": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcBBQYI/8QAIxAAAgEEAgICAwAAAAAAAAAAAQIDAAQFEQYTBxIUMUFRYf/EABYBAQEBAAAAAAAAAAAAAAAAAAQBAv/EABkRAAIDAQAAAAAAAAAAAAAAAAACERIjQf/aAAwDAQACEQMRAD8AnyLzBcNgnFtHHL8odLe/0AauuKZrH5PhVnHjwFlLL2Ki7CH+Vz75AyFzdW8aySnqQjSAfn91tPBF88WHu/cdixzqVUnWt0NVzka7614OzIrYw3AWTRb1B2VAopec2zN2nIJ0DLpQANDWhRW7EP/Z"
+                                            }
+                                        },
+                                        "alt": null
+                                    }
+                                }
+                            },
+                            {
+                                "id": "-602b7ff5-203a-5ebe-9771-0a3fbdf36e94",
+                                "fullPath": "/why-silversea/all-inclusive-luxury-cruises.html",
+                                "i18nFullPaths": {
+                                    "en": "/why-silversea/all-inclusive-luxury-cruises.html",
+                                    "es": "/es/por-que-silversea/all-inclusive.html",
+                                    "pt-br": "/pt-br/porque-silversea/tudo-incluso.html",
+                                    "de": "/de/warum-silversea/all-inklusive.html",
+                                    "fr": "/fr/pourquoi-silversea/all-inclusive.html"
+                                },
+                                "metadata": {
+                                    "tracking": {
+                                        "name": "all_inclusive_cruises"
+                                    }
+                                },
+                                "title": {
+                                    "localized": "All-Inclusive Cruises"
+                                },
+                                "card": {
+                                    "trackingName": {
+                                        "en": "Door-to-Door All-Inclusive Cruises"
+                                    },
+                                    "title": {
+                                        "localized": "Door-to-Door All-Inclusive Cruises"
+                                    },
+                                    "description": {
+                                        "localized": "Embark on a door-to-door luxury cruise that immerses you in the authentic beauty of the world."
+                                    },
+                                    "image": {
+                                        "__typename": "SanityImageWithAlt",
+                                        "hotspot": null,
+                                        "crop": null,
+                                        "asset": {
+                                            "_id": "image-a20470d2b5615c155a74edb5668e84bde1928622-9907x7430-jpg",
+                                            "metadata": {
+                                                "preview": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAgX/xAAlEAABAwQCAAcBAAAAAAAAAAABAgMEAAUGERIhIjEyQUJRccH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABkRAAMAAwAAAAAAAAAAAAAAAAABEQIDEv/aAAwDAQACEQMRAD8A5Nmx9lFlcEmOqQEne1joD9pSyCUYxVFiNoZDhSvmBoq1/KbJ1+kS4jCVyShbzfBTKE6QgHz1UxzSQ2/cWY8XkFM+Hlv1Cg6ZShuvNKEzaHZ7DT7Q1tICu/l70VnGsijNWptLjbqFb7AO/qijZdpyCcY1T//Z"
+                                            }
+                                        },
+                                        "alt": null
+                                    }
+                                }
+                            },
+                            {
+                                "id": "-f431386f-0ed4-5547-b92a-1af65e41d2f0",
+                                "fullPath": "/life-onboard/luxury-ocean-view-suites.html",
+                                "i18nFullPaths": {
+                                    "en": "/life-onboard/luxury-ocean-view-suites.html",
+                                    "es": "/es/abordo/alojamiento.html",
+                                    "pt-br": "/pt-br/a-bordo/acomodacoes.html",
+                                    "de": "/de/an-bord/accommodations.html",
+                                    "fr": "/fr/a-bord/hebergements.html"
+                                },
+                                "metadata": {
+                                    "tracking": {
+                                        "name": "ocean_view_suites"
+                                    }
+                                },
+                                "title": {
+                                    "localized": "Luxury Oceanview Suites"
+                                },
+                                "card": {
+                                    "trackingName": {
+                                        "en": "Luxury Oceanview Suites"
+                                    },
+                                    "title": {
+                                        "localized": "Luxury Oceanview Suites"
+                                    },
+                                    "description": {
+                                        "localized": "Spacious suites with butler service and a choice of lavish amenities ensure personalised comfort and absolute indulgence."
+                                    },
+                                    "image": {
+                                        "__typename": "SanityImageWithAlt",
+                                        "hotspot": null,
+                                        "crop": null,
+                                        "asset": {
+                                            "_id": "image-9797bc6289e12d67dadaa55f9e870283d4780e96-8192x6144-jpg",
+                                            "metadata": {
+                                                "preview": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPABQDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAECAwQFBv/EACIQAAIBBAEEAwAAAAAAAAAAAAECAwAEBREhBhITgTEyQf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQISIVH/2gAMAwEAAhEDEQA/AJsNY76hkx0ydzR8Bgfn3VvJ2sMWRFtFCzN3drEnheK523zUAylw6NIHgUFjzyTTrvOxCeTyAtJoHejzQuODKWi3qvHcsquQB+BRRWeksdwPIt9Omz9WXevdFHQS64f/2Q=="
+                                            }
+                                        },
+                                        "alt": null
+                                    }
+                                }
+                            },
+                            {
+                                "id": "-b0f2be9e-c2a3-59e0-9f8e-14be41c7283d",
+                                "fullPath": "/life-onboard/luxury-cruise-fine-dining.html",
+                                "i18nFullPaths": {
+                                    "en": "/life-onboard/luxury-cruise-fine-dining.html",
+                                    "es": "/es/abordo/restauracion.html",
+                                    "pt-br": "/pt-br/a-bordo/refeicoes.html",
+                                    "de": "/de/an-bord/speisen.html",
+                                    "fr": "/fr/a-bord/dinings.html"
+                                },
+                                "metadata": {
+                                    "tracking": {
+                                        "name": "fine_dining"
+                                    }
+                                },
+                                "title": {
+                                    "localized": "Fine Dining"
+                                },
+                                "card": {
+                                    "trackingName": {
+                                        "en": "Fine Dining"
+                                    },
+                                    "title": {
+                                        "localized": "Fine Dining"
+                                    },
+                                    "description": {
+                                        "localized": "From fine dining to informal venues to delicious in-suite service, Silversea’s gastronomic options have never been rivalled."
+                                    },
+                                    "image": {
+                                        "__typename": "SanityImageWithAlt",
+                                        "hotspot": null,
+                                        "crop": null,
+                                        "asset": {
+                                            "_id": "image-cf2650d776f587d8bb41e278fcc9e1003fc2b31f-4961x3307-jpg",
+                                            "metadata": {
+                                                "preview": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACUQAAIBAwMCBwAAAAAAAAAAAAECAwAEBRESIRNBBgcUIjEyUf/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/EABoRAAICAwAAAAAAAAAAAAAAAAABEVEhMWH/2gAMAwEAAhEDEQA/AKbj8JY4q4hFoNGj+7kE6/vNMMvo8lj3ltWBV+Cy99Kj2H8yMlcY60haCEHaqs4PJ4p4wDzzKpM7rGPd0xwNaLw4s3pmZrDeIbm96ljknjg2gBSvxRTUWEwDtuB07NpRSSdls//Z"
+                                            }
+                                        },
+                                        "alt": null
+                                    }
+                                }
+                            },
+                            {
+                                "id": "-dff9b105-8f06-5a55-8547-07d6b8e9b7b3",
+                                "fullPath": "/life-onboard/luxury-cruise-spa.html",
+                                "i18nFullPaths": {
+                                    "en": "/life-onboard/luxury-cruise-spa.html",
+                                    "es": "/es/abordo/bienestar.html",
+                                    "pt-br": "/pt-br/a-bordo/bem-estar.html",
+                                    "de": "/de/an-bord/wellness.html",
+                                    "fr": "/fr/a-bord/wellness.html"
+                                },
+                                "metadata": {
+                                    "tracking": {
+                                        "name": "spa_and_fitness"
+                                    }
+                                },
+                                "title": {
+                                    "localized": "Spa And Fitness"
+                                },
+                                "card": {
+                                    "trackingName": {
+                                        "en": "Spa And Fitness"
+                                    },
+                                    "title": {
+                                        "localized": "Spa And Fitness"
+                                    },
+                                    "description": {
+                                        "localized": "Our holistic approach to wellness integrates fitness and spa with lectures and nutritious dining to help guests maintain a healthy lifestyle."
+                                    },
+                                    "image": {
+                                        "__typename": "SanityImageWithAlt",
+                                        "hotspot": null,
+                                        "crop": null,
+                                        "asset": {
+                                            "_id": "image-c804cd4c3144d91ef81c65b5e376bf840ef540b6-1200x800-jpg",
+                                            "metadata": {
+                                                "preview": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQCBQYH/8QAIhAAAQMEAgIDAAAAAAAAAAAAAQIDBAAFEVEGIRIyBxMi/8QAFgEBAQEAAAAAAAAAAAAAAAAABAAC/8QAGREAAgMBAAAAAAAAAAAAAAAAAAECERJB/9oADAMBAAIRAxEAPwDVXzkptCbWWEodEmUlhf69Qak7zZ+PG5A4llHlb3kNt9+wNV87grN3lJckXGShPSvBAAAOxo09C+K7SHnVmbPV9nbiVOZSs7IokMKNdFtvafDoMSYHorLpwCtAVjOxRSFqsSIEFuMJLzqW+gpw5ONUVGXVn//Z"
+                                            }
+                                        },
+                                        "alt": null
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "pageContext": {
+            "id": "-36853108-c5fd-5af0-9ee9-095ea9a5903f",
+            "sanityId": "page-ships",
+            "modal": false,
+            "languageCode": "en",
+            "alternateLinks": [
+                {
+                    "ogLangCode": "en",
+                    "path": "/ships.html"
+                },
+                {
+                    "ogLangCode": "es",
+                    "path": "/es/barcos.html"
+                },
+                {
+                    "ogLangCode": "pt-BR",
+                    "path": "/pt-br/navios.html"
+                },
+                {
+                    "ogLangCode": "de",
+                    "path": "/de/schiffe.html"
+                },
+                {
+                    "ogLangCode": "fr",
+                    "path": "/fr/navires.html"
+                }
+            ],
+            "trackingParams": {
+                "pageCategory1": "all ships",
+                "pageCategory2": "ships",
+                "pageType": "page",
+                "name": "ships"
+            },
+            "layoutType": "DEFAULT",
+            "hideNavBarBook": false
+        }
+    },
+    "staticQueryHashes": [
+        "1478856649",
+        "3103509200"
+    ],
+    "slicesMap": {
+        "footer": "footer__en",
+        "header": "default-nav-bar__en"
+    }
+}

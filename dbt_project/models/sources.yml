@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: public
+    database: scraped  
+    schema: public  
+    tables:
+      - name: store_sail_codes_file
+      - name: silversea_cabin_prices
